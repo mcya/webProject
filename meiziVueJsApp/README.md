@@ -13,9 +13,9 @@
 
 >* 本项目地址[github地址](https://github.com/liangxiaojuan/vue-Meizi)
 
->* 手机扫一扫
 
-![项目二维码.png](http://upload-images.jianshu.io/upload_images/4249223-553d02ead2cb78fe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 
 
 ### 项目技术架构
@@ -47,14 +47,13 @@
 
 ###安装
 ***
-项目地址：（`git clone`）
-```shell
-git clone https://github.com/liangxiaojuan/vue-Meizi.git
-```
-通过`npm`安装本地服务第三方依赖模块(需要已安装[Node.js](https://nodejs.org/))
+通过`npm`安装本地服务第三方依赖模块(需要已安装[Node.js](https://nodejs.org/))或者cnpm
 
 ```
-npm install
+npm install cnpm
+```
+```
+cnpm install
 ```
 启动服务(http://localhost:9090)
 
@@ -115,9 +114,3 @@ npm install friendly-errors-webpack-plugin --save-dev
 *  登录
 *  等等
 
-### 最后
-***
-* 我的另外一个开源项目[饿了么app](https://github.com/liangxiaojuan/eleme)（已经star400+）
-* 如果喜欢一定要 star哈!!!（谢谢!!）
-* 如果有意见和问题 请在 lssues提出，我会在线解答。
-* 我年后要离职了 对我感兴趣的可以联系我 [简历](https://github.com/liangxiaojuan/resume)
