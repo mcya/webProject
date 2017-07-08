@@ -43,11 +43,6 @@
         this.detailShow = false;
       }
     }
-//    vuex: {
-//      getters: {
-//        headerTitle: getHeaderTitle
-//      }
-//    }
   };
 </script>
 <style lang="stylus" rel="stylesheet/stylus">
